@@ -1,1 +1,1 @@
-Java - Fibonacci Sequence - non-recursive, more efficient iterative solution.
+Java - Fibonacci Sequence - non-recursive, more efficient iterative solution. I learned Git while coding the recursive solution of this problem. I kept it and it's also here (for sentimental reasons) in another repo.  : )
